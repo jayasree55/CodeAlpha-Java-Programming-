@@ -119,8 +119,54 @@ Where:
 
 ---
 
-### Author
-Developed by Jayasree as part of the CodeAlpha Java Programming Internship.
 
-Developed by **Jayasree** as part of the CodeAlpha Java Programming Internship.
+
+
+# 🏨 Hotel Reservation System (Java)
+
+A simple console-based Hotel Reservation System built using Java.  
+This project demonstrates basic Object-Oriented Programming (OOP) concepts like classes, objects, and data management using collections.
+
+---
+
+## 📌 Features
+
+- Add new hotel rooms
+- View available rooms
+- Book a room for a customer
+- Cancel existing bookings
+- View all reservations
+
+---
+
+## 🏗️ Project Structure
+
+HotelReservationSystem/
+└── HotelReservationSystem.java
+
+## How to Run
+**1. Compile the program**
+javac HotelReservationSystem.java
+**2. Run the program**
+java HotelReservationSystem
+
+**##💡 Example Usage**
+Room added: 101
+Room added: 102
+Room added: 201
+
+Available Rooms:
+Room 101 (Single)
+Room 102 (Double)
+Room 201 (Suite)
+
+Room 101 booked for Jayasree
+Room 102 booked for Alex
+
+Current Reservations:
+Jayasree -> Room 101
+Alex -> Room 102
+
+Booking cancelled for room 101
+
 
